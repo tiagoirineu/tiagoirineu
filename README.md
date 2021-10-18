@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tiagoirineu
-- 👀 I’m interested in Statistics, Economics, Soccer, and games.
+- 👀 I’m interested in Statistics, Economics, Soccer, and more.
 - 🌱 I’m currently learning R Programming and Data Science
 - 💞️ I’m looking to collaborate on data analysis projects.
 - 📫 You can reach me at tiagoirineu@outlook.com or https://twitter.com/IrineuTiago
